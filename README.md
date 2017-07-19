@@ -41,7 +41,7 @@
 
 注意，桌面版和移动版需要自行根据`userAgent`进行判断（推荐：[Mobile Detect](https://github.com/serbanghita/Mobile-Detect)）。
 
-#### 桌面版 ####
+#### 桌面版 ####  已验证
 
 use juju031\alipay\Alipay;
 
